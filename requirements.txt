@@ -1,0 +1,22 @@
+absl-py==2.3.1
+bitsandbytes==0.46.1
+datasets==4.0.0
+evaluate==0.4.3
+matplotlib==3.10.3
+openai==1.90.0
+openai-harmony==0.0.4
+pandas==2.3.1
+peft==0.16.0
+pyBKT==1.4.1
+pykt-toolkit==0.0.38
+rouge-score==0.1.2
+scikit-learn==1.7.0
+scipy==1.15.0
+sentencepiece==0.2.0
+sentence-transformers==5.0.0
+torch==2.7.0
+tqdm==4.67.1
+transformers==4.53.2 # 4.56.1
+trl==0.22.2
+uv==0.7.20
+wandb==0.21.0
