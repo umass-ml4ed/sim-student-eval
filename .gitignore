@@ -1,9 +1,8 @@
 *.sh
-*.csv
 *.pyc
 *.json
-data/
 results/
 saved_models/
 vllm
 dialogue_kt
+data/Question-Anchored-Tutoring-Dialogues-2k
