@@ -1,17 +1,27 @@
 # Simulated Student Eval
 
-With the increasing use of simulated students in educational AI, we need to be able to evaluate how realisitically these simulations behave. In this repo, we release 1) a set of automated evaluation metrics for simulated student realism grounded in learning sciences research, and 2) a set of benchmark simulated student methods, including prompting, fine-tuning, and reinforcement learning. This code is associated with the paper <a href="https://arxiv.org/abs/2601.04025">Simulated Students in Tutoring Dialogues: Substance or Illusion?</a>.
+With the increasing use of simulated students in educational AI, we need to be able to evaluate how realisitically these simulations behave. In this repo, we release 1) a set of automated evaluation metrics for simulated student realism grounded in learning sciences research, and 2) a set of benchmark simulated student methods, including prompting, fine-tuning, and reinforcement learning. This code is associated with the paper <a href="https://aclanthology.org/2026.acl-long.1960/">Simulated Students in Tutoring Dialogues: Substance or Illusion?</a>.
 
 If you find this code useful, please cite us!
 ```
-@misc{scarlatos2026simulatedstudentstutoringdialogues,
-      title={Simulated Students in Tutoring Dialogues: Substance or Illusion?}, 
-      author={Alexander Scarlatos and Jaewook Lee and Simon Woodhead and Andrew Lan},
-      year={2026},
-      eprint={2601.04025},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.04025}, 
+@inproceedings{scarlatos-etal-2026-simulated,
+    title = "Simulated Students in Tutoring Dialogues: Substance or Illusion?",
+    author = "Scarlatos, Alexander  and
+      Lee, Jaewook  and
+      Woodhead, Simon  and
+      Lan, Andrew",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1960/",
+    pages = "42349--42385",
+    ISBN = "979-8-89176-390-6"
 }
 ```
 
